@@ -1,0 +1,47 @@
+body {
+    background-image: url("aot-wallpaper.jpg");
+    text-align: center;
+    backdrop-filter: blur(3px);
+    background-size: cover;
+    background-color: rgba(164, 179, 179, 0.733);
+}
+
+img {
+    width: 200px ;
+    height: 200px ;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(167, 167, 96);
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: rgb(83, 61, 61) ;
+}
+
+p {
+    font-family: 'Manrope', sans-serif;
+    color: rgb(15, 14, 13);
+    font-size: 30px;
+    position: s;
+    bottom: 10;
+    left: 10;
+}
+
+a {
+    color:rgb(18, 75, 80);
+    text-decoration: none;
+    }
+
+
+a:hover {
+    text-decoration: underline;
+    }
+
+    #about-aot {
+        font-size: 30px;
+        font-family: 'Balsamiq Sans', sans-serif;
+        
+        text-align: center;
+    }
+    

@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-image: url("anime-background.jpeg");
+    backdrop-filter: blur(3px);
+    background-size: cover;
+    background-color: rgba(164, 179, 179, 0.733);
+    margin: 50px;
+}
+
+img {
+    width: 300px ;
+    height: 300px ;
+    
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+     color: rgb(18, 29, 39);
+}
+
+#welcome-anime{
+    color: rgb(14, 10, 10);
+    font-weight: bold;
+    font-size: 50px;
+}
+
+p {
+font-family: 'Fuzzy Bubbles', sans-serif;
+font-size: 40px;
+ color: rgb(9, 15, 19);
+}
+
+a {
+color:rgb(12, 21, 22);
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+
+
