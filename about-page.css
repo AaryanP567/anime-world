@@ -21,11 +21,13 @@ h1{
 
 p {
     font-family: 'Manrope', sans-serif;
-    color: rgb(15, 14, 13);
+    color: rgb(14, 10, 7);
     font-size: 30px;
     position: s;
     bottom: 10;
     left: 10;
+    font-family: 'Balsamiq Sans', sans-serif;
+    text-align: center;
 }
 
 a {
@@ -39,7 +41,7 @@ a:hover {
     }
 
 
-    #about-sh {
+    #about-site {
         font-size: 30px;
         font-family: 'Balsamiq Sans', sans-serif;
         
